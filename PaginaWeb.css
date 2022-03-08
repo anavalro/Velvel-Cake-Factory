@@ -1,0 +1,18 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.FondoColor{
+    color: red;
+}
+
+.colorRojo{
+    color: red
+}
+
+.fotoCompleta{
+    background-image: url("Merch.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
